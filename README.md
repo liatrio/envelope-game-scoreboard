@@ -8,10 +8,10 @@ To use this scoreboard:
 
 1. Clone repo
 2. Open the index.html file from finder (mac)
-3. Once the game begins, select start
-4. Once teams deliver their features in production, select the +1 for the correct group
-5. Pause the game at various stages and discuss what's happening 
-- 1st Feature in Production - What does this mean?  Value.  Value to Who? 
+3. Once the game begins, select start to begin the timer
+4. Once teams deliver their feature in production, select the +1 for the correct group
+5. Pause the game at various stages and discuss what's happening;
+- 1st Feature in Production - What does this mean?  Value.  Value to Who? Time to market. Beating the competition. Receiving fast feeback.
 - How are folks feeling?  Batch / Flow - Stresses?  Relaxed? 
 - 6 or 7 Features in PROD - Introduce a Defect - Add a *(Star)
   - Buddies hanging out after work - leaks - there is a mole. 
