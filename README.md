@@ -2,6 +2,8 @@
 
 ### This scoreboard is used to visualize the envelope game score (flow vs. batch) in action.
 
+![](/envelope_game_scorecard.png)
+
 To use this scoreboard:
 
 1. Clone repo
